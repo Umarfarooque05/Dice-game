@@ -1,1 +1,2 @@
 # Dice-game
+practicing jquery
