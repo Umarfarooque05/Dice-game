@@ -1,2 +1,0 @@
-# Dice-game
-practicing jquery
